@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ExoHost](https://exohost.fr)
 
-- 🌱 I’m currently learning **JS, React**
+- 🌱 I’m currently learning **React, NextJS, C++**
 
 - 👨‍💻 All of my projects are available at [https://amineflex.vercel.app](https://amineflex.vercel.app)
 
