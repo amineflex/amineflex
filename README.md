@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, NextJS, C++**
 
-- 👨‍💻 All of my projects are available at [https://amineflex.vercel.app](https://amineflex.vercel.app)
+- 👨‍💻 All of my projects are available at [https://amineflex.dev](https://amineflex.dev)
 
 - 📫 You can reach me at **amine@exohost.fr**
 
