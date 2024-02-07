@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
 <h3 align="center">A computer science student</h3>
 
-- 🔭 I’m currently working on [ExoHost](https://exohost.fr)
-
 - 🌱 I’m currently learning **React, NextJS, C++**
 
 - 👨‍💻 All of my projects are available at [https://amineflex.dev](https://amineflex.dev)
 
-- 📫 You can reach me at **amine@exohost.fr**
+- 📫 You can reach me at **hello@amineflex.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
